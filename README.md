@@ -1,5 +1,5 @@
 
-### calculator written using bash
+## calculator written using bash
 
 It first prompt the user to enter the first number
 
